@@ -225,6 +225,7 @@ Kencham Vinay
 - [Able Abenaitwe](https://github.com/abenable)
 - [demomail231]
 - [Aliiyu Sadiiq](https://github.com/sadiiqaliiyu)
+- [Riaan Deventer](https://github.com/riaandeventer-cogrammar)
 - [Hein Htet Zaw](https://github.com/Justinpop123)
 - [Saksham Khare] (https://github.com/tyrex1829)
 - [pushrsp] (https://github.com/pushrsp)
